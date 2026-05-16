@@ -16,7 +16,7 @@ export default function Navbar() {
         <a href="#skills" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Skill</a>
       </div>
       <a 
-        href="https://wa.me/62822938766568"
+        href="https://wa.me/6282293876658"
         className="px-4 py-2 text-xs font-bold uppercase tracking-widest border border-accent text-accent hover:bg-accent hover:text-white transition-all rounded-sm"
         target="_blank"
         rel="noreferrer noopener"
