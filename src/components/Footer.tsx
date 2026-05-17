@@ -23,10 +23,10 @@ export default function Footer() {
           <motion.a whileHover={{ scale: 1.2, color: "#3B82F6" }} href="https://www.linkedin.com/in/haeruddin-hasrat-774a002a1/" className="text-white/60">
             <Linkedin size={20} />
           </motion.a>
-          <motion.a whileHover={{ scale: 1.2, color: "#3B82F6" }} href="#" className="text-white/60">
+          {/* <motion.a whileHover={{ scale: 1.2, color: "#3B82F6" }} href="#" className="text-white/60">
             <Twitter size={20} />
-          </motion.a>
-          <motion.a whileHover={{ scale: 1.2, color: "#3B82F6" }} href="mailto:haerulhaerl@gmail.com" className="text-white/60">
+          </motion.a> */}
+          <motion.a whileHover={{ scale: 1.2, color: "#3B82F6" }} href="mailto:haeruddinhasrat@gmail.com" className="text-white/60">
             <Mail size={20} />
           </motion.a>
         </div>
