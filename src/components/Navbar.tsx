@@ -8,7 +8,8 @@ export default function Navbar() {
       className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-4 border-b border-border-subtle glass"
     >
       <div className="text-xl font-bold tracking-tighter text-glow">
-        HAERUL.<span className="text-accent">DEV</span>
+        Haeruddin
+        <span className="text-accent">Hasrat</span>
       </div>
       <div className="hidden md:flex items-center gap-8 text-sm font-medium tracking-wide uppercase opacity-70">
         <a href="#about" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Tentang</a>
