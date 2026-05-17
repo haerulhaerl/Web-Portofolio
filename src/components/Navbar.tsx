@@ -12,8 +12,8 @@ export default function Navbar() {
       </div>
       <div className="hidden md:flex items-center gap-8 text-sm font-medium tracking-wide uppercase opacity-70">
         <a href="#about" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Tentang</a>
-        <a href="#projects" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Proyek</a>
         <a href="#skills" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Skill</a>
+        <a href="#projects" className="hover:text-accent hover:opacity-100 transition-all cursor-pointer">Proyek</a>        
       </div>
       <a 
         href="https://wa.me/6282293876658"
